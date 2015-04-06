@@ -1,5 +1,6 @@
 Instagram Example
 ===========
+Assignment 0, Chen Liao, COGS 121 SP15
 
 Discussion 1:
 
